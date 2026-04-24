@@ -1,7 +1,7 @@
 # Cuidar Mais
 
 Projeto ganhador do 2° lugar e criado durante Hackathon do Programa Jovem Programador SENAC de 2025.  
-Link do evento (inicio 1:45:00): 
+Link do evento (inicio 1:45:00). Dica pressione e segure a tecla crtl + clique do mouse para abrir em outra página: 
 <a href="https://www.youtube.com/watch?v=DpfCtKgM0no" target="_blank" rel="noopener noreferrer">
   Assistir no YouTube
 </a>
@@ -10,7 +10,7 @@ Link do evento (inicio 1:45:00):
 
 Uma plataforma de acolhimento e suporte em saúde, desenvolvida com tecnologias modernas para oferecer orientações práticas, comunicação empática e suporte jurídico aos familiares e aos usuários que estão em cuidados paliativos.  
 
-Link da plataforma: 
+Link da plataforma: Dica: pressione e segure a tecla crtl + clique do mouse para abrir em outra página 
 <a href="https://cuidar-mais-ten.vercel.app/" target="_blank" rel="noopener noreferrer">
   Acessar plataforma
 </a>
